@@ -164,9 +164,10 @@ hr.small {
 
 /* About */
 
-.about {
+.about .agenda .info .locations {
     padding: 50px 0;
 }
+
 
 /* Services */
 
